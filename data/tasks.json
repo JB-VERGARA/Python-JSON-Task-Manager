@@ -1,0 +1,20 @@
+{
+    "schema_version": 1,
+    "app": {
+        "name": "Bryan To Do List",
+        "last_updated": "2026-10-16T22:40:43.560816+08:00"
+    },
+    "tasks": [
+        {
+            "id": "43ef5308-99e7-4d06-a733-0adbf671d61a",
+            "title": "Final Interview",
+            "description": "Task Us - Final Interview",
+            "date": "2026-10-19",
+            "time": "16:00",
+            "priority": "high",
+            "completed": false,
+            "created_at": "2026-10-16T22:32:44.393422+08:00",
+            "updated_at": "2026-10-16T22:40:43.559992+08:00"
+        }
+    ]
+}
