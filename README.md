@@ -69,15 +69,15 @@ This makes it possible to:
 ## 🖥️ Screenshots
 
 <img width="1278" height="796" alt="image" src="https://github.com/user-attachments/assets/1e6d8a16-361a-4265-bc5e-83fe57624ab6" />
-<br>
+<br></br>
 
 
 <img width="1275" height="822" alt="image" src="https://github.com/user-attachments/assets/81bba904-899e-471d-8210-7a4230e236a2" />
-<br>
+<br></br>
 
 
 <img width="1279" height="836" alt="image" src="https://github.com/user-attachments/assets/30467d4a-3dc1-4581-84e8-7af4027f3b50" />
-<br>
+<br></br>
 
 
 
