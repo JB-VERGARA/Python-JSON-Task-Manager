@@ -66,7 +66,7 @@ This makes it possible to:
 - Reuse the data structure for future projects
 - Build a future web/PWA version around the same data format
 
-##🖥️ Screenshots
+## 🖥️ Screenshots
 
 <img width="1278" height="796" alt="image" src="https://github.com/user-attachments/assets/1e6d8a16-361a-4265-bc5e-83fe57624ab6" />
 
